@@ -2,3 +2,7 @@ numpy
 Flask~=2.2.2
 gunicorn
 scikit-learn
+pandas
+joblib
+xgboost
+scipy
